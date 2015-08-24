@@ -10,3 +10,4 @@ To get this going, you'll simple need to:
 
 3. Define the collumn you want to place the new file (make sure the collumn is set to "file" not string/number etc).
 
+4. Upload your file using the Parse.com command line tool
